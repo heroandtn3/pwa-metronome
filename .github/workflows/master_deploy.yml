@@ -21,5 +21,5 @@ jobs:
       run: |
         git config --global user.email "heroandtn3@gmail.com"
         git config --global user.name "heroandtn3"
-        git remote set-url origin https://$GH_TOKEN@github.com/heroandtn3/pwa-metronome.git
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/heroandtn3/pwa-metronome.git
         npm run deploy
