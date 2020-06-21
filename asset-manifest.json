@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pwa-metronome/static/css/main.cd55033c.chunk.css",
+    "main.js": "/pwa-metronome/static/js/main.6353afcc.chunk.js",
+    "main.js.map": "/pwa-metronome/static/js/main.6353afcc.chunk.js.map",
+    "runtime-main.js": "/pwa-metronome/static/js/runtime-main.4d572df2.js",
+    "runtime-main.js.map": "/pwa-metronome/static/js/runtime-main.4d572df2.js.map",
+    "static/js/2.29c79f9b.chunk.js": "/pwa-metronome/static/js/2.29c79f9b.chunk.js",
+    "static/js/2.29c79f9b.chunk.js.map": "/pwa-metronome/static/js/2.29c79f9b.chunk.js.map",
+    "index.html": "/pwa-metronome/index.html",
+    "precache-manifest.bff7503e685e7565444efc3368d8dc6a.js": "/pwa-metronome/precache-manifest.bff7503e685e7565444efc3368d8dc6a.js",
+    "service-worker.js": "/pwa-metronome/service-worker.js",
+    "static/css/main.cd55033c.chunk.css.map": "/pwa-metronome/static/css/main.cd55033c.chunk.css.map",
+    "static/js/2.29c79f9b.chunk.js.LICENSE.txt": "/pwa-metronome/static/js/2.29c79f9b.chunk.js.LICENSE.txt",
+    "static/media/pause.80a1624d.svg": "/pwa-metronome/static/media/pause.80a1624d.svg",
+    "static/media/play.6ce21ad6.svg": "/pwa-metronome/static/media/play.6ce21ad6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d572df2.js",
+    "static/js/2.29c79f9b.chunk.js",
+    "static/css/main.cd55033c.chunk.css",
+    "static/js/main.6353afcc.chunk.js"
+  ]
+}
